@@ -24,5 +24,5 @@ O notebook `notebook.ipynb` responde explicitamente às seguintes questões usan
 
 ```text
 .
-├── notebook.ipynb        # Jupyter Notebook com a implementação completa em Python
+├── notebook.ipynb        # Notebook com a implementação completa em Python
 └── README.md             # Documentação do projeto e relatório descritivo
